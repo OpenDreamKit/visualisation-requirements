@@ -1,4 +1,4 @@
-# Examples of southampton visualisation requirements
+# Examples of Southampton visualisation requirements
 
 Each directory contains:
   - VTK (pvd and vtu) files that contain data for visualisation
